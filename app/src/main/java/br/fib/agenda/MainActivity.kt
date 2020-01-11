@@ -19,7 +19,6 @@ import kotlinx.android.synthetic.main.activity_main.*
         val adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, contatos);
 
         lstcontatos.adapter = adapter
-
     }
 
      override fun onCreateOptionsMenu(menu: Menu?): Boolean {
