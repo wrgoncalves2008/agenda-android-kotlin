@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Agenda</string>
+    <string name="app_name">Agenda 1.0</string>
+    <string name="contatoEmail">E-mail:</string>
+    <string name="contatoNome">Nome:</string>
+    <string name="contatoEndereco">Endereço:</string>
+    <string name="contatoTelefone">Telefone:</string>
+    <string name="contatoSite">Site:</string>
+    <string name="contatoDataNascto">Data Nascimento:</string>
+    <string name="contatoBtnData">Data</string>
+    <string name="contatoBtnOK">OK</string>
 </resources>
